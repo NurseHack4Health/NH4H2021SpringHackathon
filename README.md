@@ -5,7 +5,7 @@ Team | Name | Desc
 --------------- | ------------------------------------------- | -------------------------------------------------------------
 1.02 | VDR | Vaccines Digital Records, an easy way to register vaccinations and recover historical records
 1.03 | Misinformation Soldiers | Amouring up to fight COVID-19 vaccine misinformation by providing eligible youths with accurate vaccine information on a platform they already use!
-1.04 | Vax Pass | New Team Name: VAX Pass
+1.04 | Vax Pass | Vax Pass is a vaccine passport application that secures (through encryption) and verifies protected health information (PHI), and vaccination course status of a child or young adult in a QR code. The aim is to facilitate the resumption of physical and social activities of children and young adults prior to the COVID-19 pandemic.
 1.05 | New Futures | Creating a user-friendly and centralized COVID-19 vaccine appointment booking system for the Canadian province of Ontario
 2.01 | Care after COVID | There is an inability to share assessment of symptoms in a timely manner delaying the onset of care for COVID long haulers experiencing a novel clinical phenomenon (medical dessert). This increases the probability of costly readmissions and specialist visits.
 2.02 | ConstantConnection | Mental support for Care Givers who are dealing with children of special needs
